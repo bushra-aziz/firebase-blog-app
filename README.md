@@ -1,7 +1,7 @@
-# BlogSpace 📝  
+# BlogSpace  
 *A simple blogging platform with authentication and Firestore integration.*
 
-## 🚀 Overview
+## Overview
 BlogSpace is a minimal blog platform where users can:
 - **Sign Up** or **Sign In** using Firebase Authentication (Email/Password).
 - **Create blog posts** with title and content.
@@ -16,7 +16,7 @@ This project is built using:
 
 ---
 ```
-## 📂 Project Structure
+Project Structure
 portfolio/
 │── index.html # Main HTML file (UI + structure)
 │── style.css # CSS file (styling and responsiveness)
